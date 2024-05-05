@@ -1,0 +1,66 @@
+body {
+  font-family: "Roboto", "Raleway", sans-serif;
+  color: #2e2f42;
+}
+
+.contacts .contacts-mail {
+  color: #434455;
+}
+
+.contacts .contacts-mail:hover,
+.contacts .contacts-mail:focus {
+  color: #404bbf;
+}
+
+.contacts .contacts-phone {
+  color: #434455;
+}
+
+.contacts .contacts-phone:hover,
+.contacts .contacts-phone:focus {
+  color: #404bbf;
+}
+.button {
+  cursor: pointer;
+  color: #ffffff;
+  background-color: #4d5ae5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.button:hover {
+  background-color: #404bbf;
+}
+
+h1 {
+  color: #fff;
+  background-color: #2e2f42;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+}
+
+h2 {
+  color: #2e2f42;
+  background-color: #f4f4fd;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.1;
+}
+
+h3 {
+  color: #2e2f42;
+  background-color: #f4f4fd;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
+
+p {
+  color: #434455;
+  background-color: #f4f4fd;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+}
