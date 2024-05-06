@@ -91,13 +91,12 @@ body {
   letter-spacing: 0.02em;
 }
 
-.section-portfolio {
-  background-color: #f4f4fd;
+.section {
 }
 
 .section .section-third {
   color: #2e2f42;
-  background-color: #ffffff;
+  background-color: #f4f4fd;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -108,6 +107,7 @@ body {
 
 .section-third-title {
   color: #2e2f42;
+  background-color: #f4f4fd;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
