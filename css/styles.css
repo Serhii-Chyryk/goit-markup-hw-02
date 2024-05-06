@@ -27,7 +27,7 @@ body {
   font-style: normal;
 }
 
-.contacts .contacts-mail {
+.contacts .contacts-info {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -35,12 +35,12 @@ body {
   color: #434455;
 }
 
-.contacts .contacts-mail:hover,
-.contacts .contacts-mail:focus {
+.contacts .contacts-info:hover,
+.contacts .contacts-info:focus {
   color: #404bbf;
 }
 
-.contacts .contacts-phone {
+.contacts .contacts-info {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -48,8 +48,8 @@ body {
   color: #434455;
 }
 
-.contacts .contacts-phone:hover,
-.contacts .contacts-phone:focus {
+.contacts .contacts-info:hover,
+.contacts .contacts-info:focus {
   color: #404bbf;
 }
 
@@ -123,7 +123,7 @@ body {
   letter-spacing: 0.02em;
 }
 
-.menu .menu-studio {
+.menu .menu-list {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -131,12 +131,12 @@ body {
   color: #2e2f42;
 }
 
-.menu .menu-studio:hover,
-.menu .menu-studio:focus {
+.menu .menu-list:hover,
+.menu .menu-list:focus {
   color: #404bbf;
 }
 
-.menu .menu-portfolio {
+.menu .menu-list {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -144,12 +144,12 @@ body {
   color: #2e2f42;
 }
 
-.menu .menu-portfolio:hover,
-.menu .menu-portfolio:focus {
+.menu .menu-list:hover,
+.menu .menu-list:focus {
   color: #404bbf;
 }
 
-.menu .menu-contacts {
+.menu .menu-list {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -157,8 +157,8 @@ body {
   color: #2e2f42;
 }
 
-.menu .menu-contacts:hover,
-.menu .menu-contacts:focus {
+.menu .menu-list:hover,
+.menu .menu-list:focus {
   color: #404bbf;
 }
 
