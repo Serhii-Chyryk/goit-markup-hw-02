@@ -1,9 +1,37 @@
 body {
-  font-family: "Roboto", "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+
+.logo {
+  font-family: "Raleway";
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.logo-tech {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
   color: #2e2f42;
+}
+.contacts {
+  font-style: normal;
 }
 
 .contacts .contacts-mail {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
@@ -13,6 +41,10 @@ body {
 }
 
 .contacts .contacts-phone {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
@@ -21,46 +53,112 @@ body {
   color: #404bbf;
 }
 .button {
+  font-family: "Roboto", sans-serif;
   cursor: pointer;
   color: #ffffff;
   background-color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.04em;
 }
 
 .button:hover {
   background-color: #404bbf;
 }
 
-h1 {
+.button:focus {
+  background-color: #404bbf;
+}
+
+.section .section-first {
   color: #fff;
   background-color: #2e2f42;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
 }
 
-h2 {
-  color: #2e2f42;
-  background-color: #f4f4fd;
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.1;
-}
-
-h3 {
+.section .section-second {
   color: #2e2f42;
   background-color: #f4f4fd;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
-p {
+.section .section-third {
+  color: #2e2f42;
+  background-color: #f4f4fd;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.section-third-title {
+  color: #2e2f42;
+  background-color: #f4f4fd;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.page {
   color: #434455;
   background-color: #f4f4fd;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.menu .menu-studio {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.menu .menu-studio:hover,
+.menu .menu-studio:focus {
+  color: #404bbf;
+}
+
+.menu .menu-portfolio {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.menu .menu-portfolio:hover {
+  color: #404bbf;
+}
+
+.menu .menu-contacts {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.menu .menu-contacts:hover {
+  color: #404bbf;
+}
+
+.section {
+  background-color: #2e2f42;
+}
+
+.page-footer {
 }
