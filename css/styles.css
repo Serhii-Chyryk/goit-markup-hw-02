@@ -133,27 +133,6 @@ body {
   color: #404bbf;
 }
 
-.menu .menu-list {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.menu .menu-list {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.menu-list:hover,
-.menu-list:focus {
-  color: #404bbf;
-}
-
 .section {
   background-color: #2e2f42;
 }
